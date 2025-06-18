@@ -31,5 +31,6 @@ public:
 	void move();
 	int32 step();
 	int32 createEvent();
+	int32 eventType();
 };
 
